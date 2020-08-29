@@ -8,8 +8,8 @@ function App() {
 		<div className="App">
 			<BrowserRouter>
 				<Switch>
-					<Route path="/" component={Home} />
-					<Route path="/company-view" component={Landing} />
+					<Route path="/update-profile" component={Home} />
+					<Route path="/" component={Landing} />
 				</Switch>
 			</BrowserRouter>
 		</div>

@@ -227,6 +227,17 @@ body {
 	font-weight: 600;
 	padding: 10px;
 }
+.profile__button {
+	padding: 15px;
+	background-color: #516cf0;
+	color: rgb(255, 255, 255);
+	border: 0px none;
+	outline: none;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 15px;
+	font-weight: 600;
+}
 .is-hidden {
 	display: none;
 }
